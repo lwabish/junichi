@@ -1,5 +1,5 @@
 		<footer id="footer" class="inner">
-			&copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title() ?></a> 由 <a href="http://www.typecho.org" target="_blank">Typecho</a> 强力驱动 Theme is <a href="https://uefeng.com" target="_blank">Junichi</a>
+			&copy; <?php echo date('Y'); ?> <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title() ?></a> 由 <a href="http://www.typecho.org" target="_blank">Typecho</a> 强力驱动 <p>Running on Self-hosted Kubernetes of v1.18.10</p>Theme is <a href="https://uefeng.com" target="_blank">Junichi</a>
 		</footer>
 	</div>
 </div>
